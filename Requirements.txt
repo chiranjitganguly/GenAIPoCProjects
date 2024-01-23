@@ -1,0 +1,5 @@
+langchain
+docx2txt
+textract
+antiword
+unstructured
